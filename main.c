@@ -10,3 +10,4 @@ int main()
     printf("\nDifference is -> %d", a-b);
     printf("\nQuotient is -> %d", a/b);
     printf("\nProduct is -> %d", a*b);
+}
