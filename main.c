@@ -9,5 +9,4 @@ int main()
     printf("\nSum is -> %d", a+b);
     printf("\nDifference is -> %d", a-b);
     printf("\nQuotient is -> %d", a/b);
-}
-// Комментарий для перехода на другую ветвь
+    printf("\nProduct is -> %d", a*b);
