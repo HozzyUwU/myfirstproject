@@ -7,4 +7,5 @@ int main()
     scanf("%d%d", &a, &b);
     printf("\nSum is -> %d", a+b);
     printf("\nDifference is -> %d", a-b);
+    printf("\nHello");
 }
