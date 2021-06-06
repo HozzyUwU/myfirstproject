@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Программа является учебной вот так вот
 int main()
 {
     int a,b;
@@ -7,5 +8,6 @@ int main()
     scanf("%d%d", &a, &b);
     printf("\nSum is -> %d", a+b);
     printf("\nDifference is -> %d", a-b);
+    printf("\nProduct is -> %d", a*b);
     printf("\nHello");
 }
